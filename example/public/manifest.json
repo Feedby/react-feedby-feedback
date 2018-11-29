@@ -1,0 +1,8 @@
+{
+  "short_name": "react-feedby-feedback",
+  "name": "react-feedby-feedback",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

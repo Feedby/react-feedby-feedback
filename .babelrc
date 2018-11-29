@@ -1,15 +1,9 @@
 {
   "presets": [
-    "env",
+    ["env", {
+      "modules": false
+    }],
+    "stage-0",
     "react"
-  ],
-  "plugins": [
-    "syntax-dynamic-import",
-    [
-      "transform-react-remove-prop-types",
-      {
-        "mode": "wrap"
-      }
-    ]
   ]
 }
